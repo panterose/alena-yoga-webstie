@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Alena Yoga
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Alena Leprevost
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alena
+last_name: Leprevost
 
 # Status emoji
 status:
@@ -31,7 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alena.nekvapilova@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
